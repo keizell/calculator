@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474511241945",
+    "project_id": "calculator-ranni",
+    "storage_bucket": "calculator-ranni.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474511241945:android:1d4fa60d374a56120a84c8",
+        "android_client_info": {
+          "package_name": "com.example.calculator_ranni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSYUZYVoApxc1Oc8Furg-vn3ubbbSPY5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
